@@ -2,7 +2,7 @@
 
 This was our group project for Hackathon event at Masai School.
 Our mian objective was to build a website which will be solution for various range of retail stores like from small shops to big retail stores.
-We have completed this project in 3 days by using ReactJS, Redux, Javascript, HTML, CSS.
+We have completed this project in 3 days by using ReactJS, Redux, Javascript, ChakraUI, HTML and CSS.
 
 - [Click here](https://simple-store-project-hackathon.netlify.app/) to see preview of our project.
 
@@ -36,26 +36,19 @@ SimpleStore is our try to build a webapp which will help to solve problems relat
 ## Screenshots
 
 
-![Screenshot from 2022-05-10 19-37-16.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191770432/hmc1nsjoD.png?auto=compress,format&format=webp)
+![Screenshot from 2022-05-10 19-37-16.png](https://github.com/Shubh-Pawar007/SimpleStore/blob/main/Assets/AppSreenshots/SimpleStore1.png)
 
 
-![Screenshot from 2022-05-10 19-37-24.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191799866/rH2uKVIgq.png?auto=compress,format&format=webp)
+![Screenshot from 2022-05-10 19-37-24.png](https://github.com/Shubh-Pawar007/SimpleStore/blob/main/Assets/AppSreenshots/SimpleStore2.png)
 
 
-![Screenshot from 2022-05-10 19-37-35.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191810657/pGHc_We8X.png?auto=compress,format&format=webp)
+![Screenshot from 2022-05-10 19-37-35.png](https://github.com/Shubh-Pawar007/SimpleStore/blob/main/Assets/AppSreenshots/SimpleStore3.png)
 
-![Screenshot from 2022-05-10 19-37-50.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191817758/jUupQ7dvV.png?auto=compress,format&format=webp)
+![Screenshot from 2022-05-10 19-37-50.png](https://github.com/Shubh-Pawar007/SimpleStore/blob/main/Assets/AppSreenshots/SimpleStore4.png)
 
-![Screenshot from 2022-05-10 19-37-58.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191817758/jUupQ7dvV.png?auto=compress,format&format=webp)
+![Screenshot from 2022-05-10 19-37-58.png](https://github.com/Shubh-Pawar007/SimpleStore/blob/main/Assets/AppSreenshots/SimpleStore5.png)
 
-![Screenshot from 2022-05-10 19-38-32.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191833357/5Ih2ivoNZ.png?auto=compress,format&format=webp)
-
-![Screenshot from 2022-05-10 19-38-38.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191841112/f5ovQFKVb.png?auto=compress,format&format=webp)
-
-![Screenshot from 2022-05-10 19-38-41.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191848797/WTlzQ9Jxe.png?auto=compress,format&format=webp)
-
-![Screenshot from 2022-05-10 19-36-31.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191857946/zmnU1QWzzc.png?auto=compress,format&format=webp)
-
+![Screenshot from 2022-05-10 19-38-32.png](https://github.com/Shubh-Pawar007/SimpleStore/blob/main/Assets/AppSreenshots/SimpleStore6.png)
 
 ## Challenges
 
