@@ -142,7 +142,7 @@ const HomePage = () => {
     
     {/* {loading && <Image ml={200} src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6d391369321565.5b7d0d570e829.gif"/>} */}
     { error && <Image ml={200} src="https://media3.giphy.com/avatars/404academy/kGwR3uDrUKPI.gif" alt=""/>}
-     : <Box
+      <Box
         display={"flex"}
         height="auto"
         width="100%"
