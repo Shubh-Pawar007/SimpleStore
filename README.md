@@ -1,4 +1,4 @@
-# Clone of Netmeds.com
+# Simple Store
 
 This was our group project for Hackathon event at Masai School.
 Our mian objective was to build a website which will be solution for various range of retail stores like from small shops to big retail stores.
