@@ -4,7 +4,7 @@ This was our group project for Hackathon event at Masai School.
 Our mian objective was to build a website which will be solution for various range of retail stores like from small shops to big retail stores.
 We have completed this project in 3 days by using ReactJS, Redux, Javascript, ChakraUI, HTML and CSS.
 
-- [Click here](https://simple-store-project-hackathon.netlify.app/) to see preview of our project.
+- [Click here](https://simple-store-liart.vercel.app/) to see preview of our project.
 
 SimpleStore is our try to build a webapp which will help to solve problems related to inventory management.
 
